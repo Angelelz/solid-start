@@ -1,0 +1,24 @@
+{
+  "name": "example-movies",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.14.1",
+    "@solidjs/start": "^1.0.6",
+    "solid-js": "^1.8.18",
+    "solid-heroicons": "^3.2.4",
+    "vinxi": "^0.4.1"
+  },
+  "devDependencies": {
+    "unplugin-icons": "^0.14.15",
+    "@iconify/json": "^2.2.102",
+    "sass": "^1.65.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
